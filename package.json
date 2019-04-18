@@ -1,0 +1,24 @@
+{
+  "name": "ufc-client",
+  "version": "0.0.1-alpha",
+  "description": "UFC Client",
+  "main": "./lib/index.js",
+  "license": "MIT",
+  "repository": "vobi-io/ufc-client",
+  "keywords": [
+    "ufc",
+    "tbc",
+    "payments",
+    "client",
+    "npm",
+    "package"
+  ],
+  "files": [
+    "lib/*"
+  ],
+  "author": "vobi.io",
+  "dependencies": {
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.7"
+  }
+}
